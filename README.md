@@ -1,4 +1,4 @@
-````markdown
+
 <!-- ============================= -->
 <!--  Amirmohammad Kazemi – Futuristic Gray + Cold Blue Animated README (2025)  -->
 <!-- ============================= -->
@@ -23,14 +23,13 @@
 
 ## 🧭 About
 
-```yaml
 Name: Amirmohammad Kazemi
 Role: Front-End Developer
 Focus: React, Next.js, Map-based Dashboards, UI/UX
 Strengths: Clean Code, Animations, Modern Design (2025)
 Currently: Building Scalable & Interactive Systems
 Location: Europe/Berlin (Remote-friendly)
-````
+
 
 > **Design Language**: Minimal, contrast-friendly, **gray** foundation with **cold blue** accents (ice/cyan). Soft shadows, subtle glow, and wave-like motion for a calm, modern aesthetic.
 
@@ -142,4 +141,3 @@ Location: Europe/Berlin (Remote-friendly)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2e3440,100:5AA6C7" alt="footer neon wave"/>
 </p>
-```
