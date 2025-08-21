@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&color=6AAFE6&center=true&vCenter=true&width=800&lines=Hey+There+👋;I'm+Amirmohammad+Kazemi" alt="Typing SVG" />
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDYwMCAxODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjYwMCIgaGVpZ2h0PSIxODAiIGZpbGw9IiMyZTM0NDAiLz4KICA8cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjE4MCIgZmlsbD0iI2JhZjhlZiIgZmlsbC1vcGFjaXR5PSIwLjMiLz4KICA8dGV4dCB4PSIzMDAiIHk9IjkwIiBmb250LXNpemU9IjQyIiBmb250LWZhbWlseT0iT3JiaXRyYW4iIGZpbGw9IiM1QUFGRjYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGluaXRpYWwtYmFzZWxpbmU9ImNlbnRyYWwiIHN0cm9rZT0iIzZBQUZFNCIgc3Ryb2tlLXdpZHRoPSI0IiBmaWxsLW9wYWNpdHk9IjEiPkhleSBUaGVyZSA8dHNwYW4+8J+RiPC90c3Bhbj48L3RleHQ+Cjwvc3ZnPg==" width="400" alt="Neon Wave SVG"/>
 </p>
 
 <p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjE1MCIgdmlld0JveD0iMCAwIDMwMCAxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjMwMCIgaGVpZ2h0PSIxNTAiIGZpbGw9IiMwRkZGQzciLz4KICA8Y2lyY2xlIGN4PSIxNTAiIGN5PSI3NSIgcj0iNzUiIGZpbGw9IiM1QUFGRjYiIGZpbGwtb3BhY2l0eT0iMC4zIi8+CiAgPHRleHQgeD0iMTUwIiB5PSI4NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIzMiIgZmlsbD0iI0ZGRkM3NyI+QW1pcm1vaG1hZGRtIEthemVtaTwvdGV4dD4KPC9zdmc+" width="200" alt="Neon SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=6AAFE6&center=true&vCenter=true&width=600&lines=I'm+Amirmohammad+Kazemi" alt="Typing SVG"/>
 </p>
 
 ## About Me
@@ -32,7 +32,7 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tocka69&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6AAFE6&icon_color=6AAFE6&text_color=c9d1d9" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tocka69&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6AAFE6&icon_color=6AA6C7&text_color=c9d1d9" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tocka69&hide_border=true&background=0d1117&ring=5AA6C7&fire=5AA6C7&currStreakLabel=6AAFE6&dates=c9d1d9" height="160"/>
 </p>
 
