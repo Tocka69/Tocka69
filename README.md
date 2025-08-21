@@ -17,7 +17,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,laravel,php,nodejs,mysql,git,github,vite,figma,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,git,github,vite,figma,vercel&theme=dark" />
 </p>
 
 ## Featured Projects
