@@ -10,10 +10,9 @@
 
 **Name:** Amirmohammad Kazemi  
 **Role:** Front-End Developer  
-**Focus:** React, Next.js, Map-based Dashboards, UI/UX  
+**Focus:** React, Next.js, Map-based Dashboards
 **Strengths:** Clean Code, Animations, Modern Design  
 **Currently:** Building Scalable & Interactive Systems  
-**Location:** Europe/Berlin (Remote-friendly)
 
 ## Tech Stack
 
