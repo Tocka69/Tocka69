@@ -1,25 +1,29 @@
-<!-- Hero Section -->
-<h1 align="center">Hi 👋, I'm Toska</h1>
-<h3 align="center">A Passionate Front-end Developer | UI/UX Enthusiast | Lifelong Learner</h3>
+<!-- ================= HERO ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Hi%20I'm%20Toska!&fontSize=45&fontColor=ffffff&animation=twinkling" />
+</p>
+
+<h1 align="center">💻 Creative Front-end Developer | UI/UX Enthusiast 🌍</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Front-end+Developer;React+%26+Next.js+Specialist;Loves+Modern+UI%2FUX+Design;Always+Learning+New+Tech+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=🚀+Passionate+Front-end+Developer;🎨+Loves+Modern+UI%2FUX+Design;⚡+React+%26+Next.js+Specialist;🌍+Always+Exploring+New+Tech;☕+Fueled+by+Coffee+and+Creativity" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me  
-🌟 I am **Toska**, a creative front-end developer with a deep passion for **modern UI/UX**,  
-⚡ Focused on **React, Next.js, and cutting-edge web technologies**.  
-🎨 I love building **pixel-perfect designs** with **Tailwind CSS** & responsive layouts.  
-🌍 Always exploring new tools to deliver **beautiful, scalable, and user-friendly web experiences**.  
+
+✨ I am **Toska**, a creative **front-end developer** passionate about building **modern UI/UX experiences**.  
+🌍 I love exploring new technologies to design **beautiful, interactive, and scalable** web apps.  
+⚡ My work blends **clean code + cutting-edge design trends (2025)** to deliver world-class interfaces.  
+🎯 Focused on **React, Next.js, Tailwind, TypeScript, and Web Animations**.  
 
 ---
 
-## 🔥 Tech Stack  
+## 🎨 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,js,ts,html,css,vite,git,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,js,ts,html,css,vite,git,figma,github&perline=7" />
 </p>
 
 ---
@@ -28,21 +32,21 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [⚡ Courier Dashboard](https://github.com/Tocka69) | A dynamic dashboard for tracking couriers, origins, and destinations in real-time | React, Map.ir, Tailwind |
-| [🎨 Product Wizard](https://github.com/Tocka69) | A multi-step product management wizard with modern UI & image uploads | React, RHF, Bootstrap |
-| [📍 Location Selector](https://github.com/Tocka69) | Interactive map modal with reverse geocoding integration | React, Leaflet, Map.ir |
+| [⚡ Courier Dashboard](https://github.com/Tocka69) | Real-time dashboard for couriers, restaurants & orders with custom markers and clustering | React, Map.ir, Tailwind |
+| [🎨 Product Wizard](https://github.com/Tocka69) | Multi-step product management wizard with categories, variations, and preview step | React, RHF, Bootstrap |
+| [📍 Location Selector](https://github.com/Tocka69) | Interactive modal form with reverse geocoding integration and dynamic map selection | React, Leaflet, Map.ir |
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tocka69&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tocka69&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tocka69&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tocka69&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tocka69&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tocka69&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -50,7 +54,23 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tocka69&theme=radical&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tocka69&theme=radical&row=2&column=3&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tocka69&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 Snake Animation  
+
+<p align="center">
+  <img src="https://github.com/Tocka69/Tocka69/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -65,29 +85,24 @@
 
 ---
 
-## ⚡ Fun Zone  
+## ⚡ Fun Facts  
 
-- 🌱 Currently learning **Astro & Web Animations API**  
-- 💡 Interested in **AI + Frontend integration**  
-- 🎶 Fun fact: I code better with **music in the background 🎧**  
-- ☕ Always up for a cup of coffee while coding!  
-
----
-
-## ✨ Dynamic Widgets  
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tocka69&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-</p>
+- 🌱 Currently learning **Astro, Web Animations API, and AI-driven UI**  
+- 🎵 I code better with **music** in the background  
+- ☕ Coffee keeps me alive during late-night coding sessions  
+- 🎮 When not coding, I enjoy gaming & exploring design trends  
 
 ---
 
-## 📌 Quote of the Day  
+## 📌 Daily Quote  
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" />
 </p>
