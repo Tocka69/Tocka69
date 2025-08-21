@@ -12,12 +12,11 @@
 **Focus:** React, Next.js, Map-based Dashboards, UI/UX  \  
 **Strengths:** Clean Code, Animations, Modern Design  \  
 **Currently:** Building Scalable & Interactive Systems  \  
-**Location:** Europe/Berlin (Remote-friendly)
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,laravel,php,nodejs,mysql,git,github,vite,figma,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,laravel,php,nodejs,mysql,git,github,vite,figma&theme=dark" />
 </p>
 
 ## Featured Projects
