@@ -2,29 +2,32 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&color=6AAFE6&center=true&vCenter=true&width=800&lines=Hey+There+👋;I'm+Amirmohammad+Kazemi" alt="Typing SVG" />
 </p>
 
-
+<p align="center">
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjE1MCIgdmlld0JveD0iMCAwIDMwMCAxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjMwMCIgaGVpZ2h0PSIxNTAiIGZpbGw9IiMwRkZGQzciLz4KICA8Y2lyY2xlIGN4PSIxNTAiIGN5PSI3NSIgcj0iNzUiIGZpbGw9IiM1QUFGRjYiIGZpbGwtb3BhY2l0eT0iMC4zIi8+CiAgPHRleHQgeD0iMTUwIiB5PSI4NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIzMiIgZmlsbD0iI0ZGRkM3NyI+QW1pcm1vaG1hZGRtIEthemVtaTwvdGV4dD4KPC9zdmc+" width="200" alt="Neon SVG"/>
+</p>
 
 ## About Me
 
-**Name:** Amirmohammad Kazemi
-**Role:** Front-End Developer
-**Focus:** React, Next.js, Map-based Dashboards, UI/UX
-**Strengths:** Clean Code, Animations, Modern Design
-**Currently:** Building Scalable & Interactive Systems
+**Name:** Amirmohammad Kazemi  \  
+**Role:** Front-End Developer  \  
+**Focus:** React, Next.js, Map-based Dashboards, UI/UX  \  
+**Strengths:** Clean Code, Animations, Modern Design  \  
+**Currently:** Building Scalable & Interactive Systems  \  
+**Location:** Europe/Berlin (Remote-friendly)
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,laravel,php,nodejs,mysql,git,github,vite,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,laravel,php,nodejs,mysql,git,github,vite,figma,vercel&theme=dark" />
 </p>
 
 ## Featured Projects
 
-| Project                                         | Description                                                                              | Tech                    |
-| ----------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------- |
+| Project | Description | Tech |
+|---|---|---|
 | [Courier Dashboard](https://github.com/Tocka69) | Real-time courier/restaurant/order tracking with custom icons, clustering, and map logic | React, Map.ir, Tailwind |
-| [Product Wizard](https://github.com/Tocka69)    | Multi-step product management with categories, variations, image upload, and preview     | React, RHF, Bootstrap   |
-| [Location Selector](https://github.com/Tocka69) | Interactive map modal with reverse geocoding and dynamic address binding                 | React, Leaflet, Map.ir  |
+| [Product Wizard](https://github.com/Tocka69) | Multi-step product management with categories, variations, image upload, and preview | React, RHF, Bootstrap |
+| [Location Selector](https://github.com/Tocka69) | Interactive map modal with reverse geocoding and dynamic address binding | React, Leaflet, Map.ir |
 
 ## GitHub Analytics
 
@@ -62,6 +65,8 @@
 
 <p align="center">
   <a href="https://github.com/Tocka69"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=6AAFE6"></a>
+  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=5AA6C7"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=6AAFE6"></a>
 </p>
 
 <p align="center">
