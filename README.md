@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&color=6AAFE6&center=true&vCenter=true&width=800&lines=Hey+There+👋;I'm+Amirmohammad+Kazemi" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9IiM1QUFGRjYiIHJ4PSIyMCIvPgogIDx0ZXh0IHg9IjEwMCIgeT0iMTAwIiBmb250LXNpemU9IjIwIiBmb250LWZhbWlseT0iT3JiaXRyYW4iIGZpbGw9IiMwRkZGQzciIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZG9taW5hbnQtYmFzZWxpbmU9ImNlbnRyYWwiPkFTSE5IRUQ8L3RleHQ+Cjwvc3ZnPg==" width="150" alt="Embedded SVG"/>
-</p>
+
 
 ## About Me
 
