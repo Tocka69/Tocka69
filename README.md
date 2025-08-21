@@ -8,26 +8,26 @@
 
 ## About Me
 
-Name: Amirmohammad Kazemi
-Role: Front-End Developer
-Focus: React, Next.js, Map-based Dashboards, UI/UX
-Strengths: Clean Code, Animations, Modern Design
-Currently: Building Scalable & Interactive Systems
-Location: Europe/Berlin (Remote-friendly)
+**Name:** Amirmohammad Kazemi  
+**Role:** Front-End Developer  
+**Focus:** React, Next.js, Map-based Dashboards, UI/UX  
+**Strengths:** Clean Code, Animations, Modern Design  
+**Currently:** Building Scalable & Interactive Systems  
+**Location:** Europe/Berlin (Remote-friendly)
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind,bootstrap,laravel,php,nodejs,mysql,git,github,vite,figma,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,laravel,php,nodejs,mysql,git,github,vite,figma,vercel&theme=dark" />
 </p>
 
 ## Featured Projects
 
-| Project                                         | Description                                                                              | Tech                    |
-| ----------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------- |
+| Project | Description | Tech |
+|---|---|---|
 | [Courier Dashboard](https://github.com/Tocka69) | Real-time courier/restaurant/order tracking with custom icons, clustering, and map logic | React, Map.ir, Tailwind |
-| [Product Wizard](https://github.com/Tocka69)    | Multi-step product management with categories, variations, image upload, and preview     | React, RHF, Bootstrap   |
-| [Location Selector](https://github.com/Tocka69) | Interactive map modal with reverse geocoding and dynamic address binding                 | React, Leaflet, Map.ir  |
+| [Product Wizard](https://github.com/Tocka69) | Multi-step product management with categories, variations, image upload, and preview | React, RHF, Bootstrap |
+| [Location Selector](https://github.com/Tocka69) | Interactive map modal with reverse geocoding and dynamic address binding | React, Leaflet, Map.ir |
 
 ## GitHub Analytics
 
@@ -47,7 +47,7 @@ Location: Europe/Berlin (Remote-friendly)
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tocka69/Tocka69/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Tocka69&theme=algolia&no-frame=true&no-bg=true&margin-w=12" alt="contribution snake"/>
 </p>
 
 ## Skill Badges
